@@ -1,0 +1,54 @@
+::selection {
+    background: #ffb6c1;
+}
+a {
+	text-decoration: none;
+}
+p {
+    color: #fff;
+    font: bold 20px 'Courier New';
+}
+body {
+    background: #272727;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    font: bold 20px 'Courier New';
+    margin: 0;
+    min-height: 100vh;
+    padding: 0;
+    text-align: center;
+}
+.matanimheader {
+    background: url('/content/img/matanimheader.jpg') no-repeat center/cover;
+    height: 150px;
+    display: flex;
+}
+.matanimavatar {
+    background: url('/content/img/matanimavatar.jpg') no-repeat center/cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 20px auto;
+}
+.matanimcontent {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.link-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.link-container img {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
+}
+.copyright-container, .copyrighttext {
+    color: #b6b6b6;
+    font-size: 9px;
+    margin-top: auto;
+}
