@@ -20,12 +20,12 @@ body {
     text-align: center;
 }
 .matanimheader {
-    background: url('/content/img/matanimheader.jpg') no-repeat center/cover;
+    background: url('/matanim27.github.io/content/img/matanimheader.jpg') no-repeat center/cover;
     height: 150px;
     display: flex;
 }
 .matanimavatar {
-    background: url('/content/img/matanimavatar.jpg') no-repeat center/cover;
+    background: url('/matanim27.github.io/content/img/matanimavatar.jpg') no-repeat center/cover;
     width: 200px;
     height: 200px;
     border-radius: 50%;
